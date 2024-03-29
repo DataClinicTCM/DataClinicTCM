@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DataClinicTCM
-- 👀 I’m interested in TCM and R 
+- 👀 I’m interested in TCM, ML and R...
 - 🌱 I’m currently learning how to make TCM better with R 
 
 
