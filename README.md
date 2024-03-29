@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DataClinicTCM
-- 👀 I’m interested in TCM and data science...
-- 🌱 I’m currently learning how to make TCM better with R 
+- 👀 I’m interested in Traditional Chinese Medicine（TCM） and data science...
+- 🌱 I’m currently learning how to make TCM better and universal with R 
 
 
 <!---
