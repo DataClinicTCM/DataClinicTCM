@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DataClinicTCM
+- 👋 Hi, I’m Mr.X @DataClinicTCM
 - 👀 I’m interested in Traditional Chinese Medicine（TCM）, Taoist health theory and data science...
 - 🌱 I’m currently learning how to make TCM better and universal with R 
 
